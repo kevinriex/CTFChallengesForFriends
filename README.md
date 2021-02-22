@@ -34,7 +34,7 @@ PS: Halten sie ihr Handy parat:)
 >Sie haben eine Datei gegeben. In diser Datei stecken mehrere andere Dateien. Finden sie die und ermitteln sie auch hier die Flag.
 
 ***
-###### Flag Format: ####{*}
+###### Flag Format:  \*{*} || *z.b.: flag{he11o}*
 ###### Quellen: ctflearn.com youtube.com
 
 ___
