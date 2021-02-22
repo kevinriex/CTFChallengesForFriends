@@ -36,7 +36,7 @@ PS: Halten sie ihr Handy parat:)
 ***
 ###### Flag Format:  \*{*} || *z.b.: flag{he11o}*
 ###### Quellen: ctflearn.com youtube.com
-
+*Readme am besten über VSCode in der Preview ansehen:)*
 ___
 
 <center> <b>Kevin Riexinger</b> </center>
